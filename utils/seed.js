@@ -1,0 +1,1 @@
+const {posting,userschemaa}= require('../models')
