@@ -19,7 +19,10 @@ const userSchema = new Schema({
         type:String,
         required:true 
     },
-  
+  createdAt:{
+    type:Date,
+    default: new Date()
+  }
 },{
     toJSON:{
         virtuals:true
