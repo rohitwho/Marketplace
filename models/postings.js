@@ -26,8 +26,6 @@ createdAt:{
       default: Date.now,
 
 },
-
-
 },{
     toJSON:{
         virtuals:true

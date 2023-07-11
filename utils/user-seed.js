@@ -10,6 +10,4 @@ module.exports=[{
     lastName:"nayyar",
     email:"rohitnayyar54@gmail.com"
 }
-
-
 ]
